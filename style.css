@@ -70,7 +70,7 @@ nav div button:hover{
     height: 674px;
     pad: 70px 120px 134px 120px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 .early{
