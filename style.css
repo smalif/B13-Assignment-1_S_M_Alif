@@ -171,7 +171,8 @@ nav div button{
     flex-direction: column;
     align-items: center;
     text-align: center;
-    width: 250px;
+    width: 322px;
+    height: 300px;
     border: none;
     border-radius: 8px;
     padding: 24px;
@@ -204,7 +205,6 @@ letter-spacing: 0%;
 text-align: center;
 text-transform: capitalize;
 color: #001931;
-padding-top: 16px;
 }
 
 .box-note p{
@@ -214,5 +214,4 @@ line-height: 20px;
 letter-spacing: 0%;
 text-align: center;
 color: #627382;
-padding-top: 16px;
 }
